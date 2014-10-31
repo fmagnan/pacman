@@ -1,8 +1,8 @@
 ##### Menu
 menu:
   Archives: /archives
-  Projects: /projects
-  About: http://fmagnan.github.io/about
+  Projets: /projects
+  L'auteur: http://fmagnan.github.io/about
   Contact: mailto:fmagnan@gmail.com
 ## you can create `tags` and `categories` folders in `../source`.
 ## And create a `index.md` file in each of them.
